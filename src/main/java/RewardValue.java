@@ -21,5 +21,4 @@ public class RewardValue {
     public double getMilesValue(){
         return miles;
     }
-
 }
